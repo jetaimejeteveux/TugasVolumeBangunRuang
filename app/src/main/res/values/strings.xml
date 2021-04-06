@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TugasVolumeBangunRuang</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="radius">radius in cm</string>
+    <string name="height">height in cm</string>
+    <string name="length">length in cm</string>
+    <string name="width">width in cm</string>
+    <string name="volume_is">Volume =</string>
+    <string name="result">Result</string>
+    <string name="surface_area_is">Surface Area =</string>
+    <string name="calculate">Calculate</string>
+</resources>
